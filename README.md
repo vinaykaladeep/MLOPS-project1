@@ -1,2 +1,2 @@
 # MLOPS-project1
-MLOPS Project1
+Welcome to this MLOps showcase—a comprehensive demonstration of how to build a resilient pipeline for handling vehicle insurance data. This project is crafted to highlight the full ecosystem of tools, techniques, services, and capabilities involved in developing and deploying a production-ready machine learning workflow. Explore each stage to see how the project is structured, how the data is processed, how the model is deployed, and how CI/CD automation ties everything together!
